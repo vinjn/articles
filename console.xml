@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <settings>
-  <console change_refresh="10" refresh="100" rows="41" columns="112" buffer_rows="500" buffer_columns="0" shell="" init_dir="" start_hidden="0" save_size="1">
+	<console change_refresh="10" refresh="100" rows="41" columns="112" buffer_rows="500" buffer_columns="0" shell="" init_dir="" start_hidden="0" save_size="1">
 		<colors>
 			<color id="0" r="7" g="54" b="66"/>
 			<color id="1" r="38" g="139" b="210"/>
@@ -41,11 +41,11 @@
 		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="0" command="settings"/>
 		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="112" command="help"/>
 		<hotkey ctrl="0" shift="0" alt="1" extended="0" code="115" command="exit"/>
-		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="84" command="newtab1"/>
-		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="80" command="newtab2"/>
-		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="68" command="newtab3"/>
-		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="115" command="newtab4"/>
-		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="116" command="newtab5"/>
+		<hotkey ctrl="0" shift="0" alt="1" extended="0" code="49" command="newtab1"/>
+		<hotkey ctrl="0" shift="0" alt="1" extended="0" code="50" command="newtab2"/>
+		<hotkey ctrl="0" shift="0" alt="1" extended="0" code="51" command="newtab3"/>
+		<hotkey ctrl="0" shift="0" alt="1" extended="0" code="52" command="newtab4"/>
+		<hotkey ctrl="0" shift="0" alt="1" extended="0" code="53" command="newtab5"/>
 		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="117" command="newtab6"/>
 		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="118" command="newtab7"/>
 		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="119" command="newtab8"/>
@@ -92,6 +92,24 @@
 	<tabs>
 		<tab title="tools" use_default_icon="0">
 			<console shell="" init_dir="C:\workspace\hw_tree\hw\tools\trace_tools" run_as_user="0" user=""/>
+			<cursor style="0" r="255" g="255" b="255"/>
+			<background type="0" r="0" g="0" b="0">
+				<image file="" relative="0" extend="0" position="0">
+					<tint opacity="0" r="0" g="0" b="0"/>
+				</image>
+			</background>
+		</tab>
+		<tab title="bash" icon="C:\cygwin\Cygwin.ico" use_default_icon="0">
+			<console shell="C:\cygwin\bin\bash.exe --login -i" init_dir="" run_as_user="0" user=""/>
+			<cursor style="0" r="255" g="255" b="255"/>
+			<background type="0" r="0" g="0" b="0">
+				<image file="" relative="0" extend="0" position="0">
+					<tint opacity="0" r="0" g="0" b="0"/>
+				</image>
+			</background>
+		</tab>
+		<tab title="adb" use_default_icon="0">
+			<console shell="C:\Downloads\adt-bundle-windows-x86-20130219\sdk\platform-tools\adb.exe shell" init_dir="" run_as_user="0" user=""/>
 			<cursor style="0" r="255" g="255" b="255"/>
 			<background type="0" r="0" g="0" b="0">
 				<image file="" relative="0" extend="0" position="0">
