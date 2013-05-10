@@ -41,22 +41,22 @@
 		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="0" command="settings"/>
 		<hotkey ctrl="0" shift="0" alt="0" extended="0" code="112" command="help"/>
 		<hotkey ctrl="0" shift="0" alt="1" extended="0" code="115" command="exit"/>
-		<hotkey ctrl="0" shift="0" alt="1" extended="0" code="49" command="newtab1"/>
-		<hotkey ctrl="0" shift="0" alt="1" extended="0" code="50" command="newtab2"/>
-		<hotkey ctrl="0" shift="0" alt="1" extended="0" code="51" command="newtab3"/>
-		<hotkey ctrl="0" shift="0" alt="1" extended="0" code="52" command="newtab4"/>
-		<hotkey ctrl="0" shift="0" alt="1" extended="0" code="53" command="newtab5"/>
+		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="49" command="newtab1"/>
+		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="50" command="newtab2"/>
+		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="51" command="newtab3"/>
+		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="52" command="newtab4"/>
+		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="53" command="newtab5"/>
 		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="117" command="newtab6"/>
 		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="118" command="newtab7"/>
 		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="119" command="newtab8"/>
 		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="120" command="newtab9"/>
 		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="121" command="newtab10"/>
-		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="49" command="switchtab1"/>
-		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="50" command="switchtab2"/>
-		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="51" command="switchtab3"/>
-		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="52" command="switchtab4"/>
-		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="53" command="switchtab5"/>
-		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="54" command="switchtab6"/>
+		<hotkey ctrl="0" shift="0" alt="1" extended="0" code="49" command="switchtab1"/>
+		<hotkey ctrl="0" shift="0" alt="1" extended="0" code="50" command="switchtab2"/>
+		<hotkey ctrl="0" shift="0" alt="1" extended="0" code="51" command="switchtab3"/>
+		<hotkey ctrl="0" shift="0" alt="1" extended="0" code="52" command="switchtab4"/>
+		<hotkey ctrl="0" shift="0" alt="1" extended="0" code="53" command="switchtab5"/>
+		<hotkey ctrl="0" shift="0" alt="1" extended="0" code="54" command="switchtab6"/>
 		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="55" command="switchtab7"/>
 		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="56" command="switchtab8"/>
 		<hotkey ctrl="1" shift="0" alt="0" extended="0" code="57" command="switchtab9"/>
