@@ -1,4 +1,4 @@
-vinjn-config
+vinjn / articles
 ============
 
 * config files 
