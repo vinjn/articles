@@ -26,8 +26,12 @@ export ANDROID_SDK_ROOT=~/Downloads/adt-bundle-linux-x86_64-20130729/sdk
 export NDKROOT=~/Downloads/android-ndk-r8e
 export ANDROID_NDK=~/Downloads/android-ndk-r8e
 
+# bin shortcuts
 alias log='adb logcat'
 alias source='source ~/.profile'
+alias greprn='grep -rn'
+
+# cd shortcuts
 alias ..='cd ..'
 alias ...='cd ../../../'
 alias ....='cd ../../../../'
