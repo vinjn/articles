@@ -9,12 +9,12 @@
 #umask 022
 
 # if running bash
-if [ -n "$BASH_VERSION" ]; then
-    # include .bashrc if it exists
-    if [ -f "$HOME/.bashrc" ]; then
-	. "$HOME/.bashrc"
-    fi
-fi
+# if [ -n "$BASH_VERSION" ]; then
+#     # include .bashrc if it exists
+#     if [ -f "$HOME/.bashrc" ]; then
+# 	. "$HOME/.bashrc"
+#     fi
+# fi
 
 # set PATH so it includes user's private bin if it exists
 if [ -d "$HOME/bin" ] ; then
@@ -28,6 +28,7 @@ export ANDROID_NDK=~/Downloads/android-ndk-r8e
 
 # bin shortcuts
 alias log='adb logcat'
+alias grepadb='adb logcat | grep'
 alias source='source ~/.profile'
 alias greprn='grep -rn'
 alias p4m='p4merge'
