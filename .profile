@@ -30,6 +30,7 @@ export ANDROID_NDK=~/Downloads/android-ndk-r8e
 alias log='adb logcat'
 alias source='source ~/.profile'
 alias greprn='grep -rn'
+alias p4m='p4merge'
 
 # cd shortcuts
 alias ..='cd ..'
