@@ -1,6 +1,19 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
-	"font_size": 11,
-	"line_numbers": false,
+    "color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+    "font_size": 11,
+    
+    "folder_exclude_patterns":
+    [
+        "boost"
+    ],
+    
+    "line_numbers": true,
     "highlight_modified_tabs": true,
+    
+    // The number of spaces a tab is considered equal to
+    "tab_size": 4,
+
+    // Set to true to insert spaces when tab is pressed
+    "translate_tabs_to_spaces": true,
+    
 }
