@@ -14,6 +14,7 @@ alias greprn='grep -rn'
 alias ls='ls --color'
 alias ll='ls -l --color'
 alias la='ls -la --color'
+alias sb='subl'
 
 # p4
 export P4CONFIG=.p4config
