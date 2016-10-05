@@ -1,5 +1,6 @@
 alias updatedb="sudo /usr/libexec/locate.updatedb"
 alias sb="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
+alias code="/Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin/code"
 
 # bin alias
 # alias source='source ~/.bash_profile'
