@@ -2,7 +2,7 @@ alias updatedb="sudo /usr/libexec/locate.updatedb"
 alias sb="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
 
 # bin alias
-alias source='source ~/.bash_profile'
+# alias source='source ~/.bash_profile'
 alias greprn='grep -rn'
 alias ll='ls -l'
 alias la='ls -la'
