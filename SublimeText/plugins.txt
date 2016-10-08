@@ -1,13 +1,15 @@
 Package Control
 All Autocomplete
-Perforce
 BracketHighlighter
 Sidebar Enhancement
 SyncedSideBar
 Highlight Build Errors
 SublimeAStlyeFormatter
 PackageResourceViewer
-WordHighlight
+
+Perforce
+Git
+TortoiseSVN
 
 Jedi - Python Autocomplete
 CMake
@@ -15,13 +17,12 @@ Processing
 CUDA C++
 Shader Syntax
 Swift
-
-SublimeCodeIntel
 Pretty Json
+Markdown Editing
+
+WordHighlight
+SublimeCodeIntel
 Autocomplete Javascript with Method Signature
 ConvertToUTF8
-Markdown Editing
 SublimeLinter
 SublimeLinter-annotations
-GitGutter
-TortoiseSVN
