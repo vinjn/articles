@@ -1,0 +1,27 @@
+Package Control
+All Autocomplete
+Perforce
+BracketHighlighter
+Sidebar Enhancement
+SyncedSideBar
+Highlight Build Errors
+SublimeAStlyeFormatter
+PackageResourceViewer
+WordHighlight
+
+Jedi - Python Autocomplete
+CMake
+Processing
+CUDA C++
+Shader Syntax
+Swift
+
+SublimeCodeIntel
+Pretty Json
+Autocomplete Javascript with Method Signature
+ConvertToUTF8
+Markdown Editing
+SublimeLinter
+SublimeLinter-annotations
+GitGutter
+TortoiseSVN
