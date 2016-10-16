@@ -13,5 +13,7 @@
 ## Toolchain
 * VS Code
 * debugger
-> go get github.com/derekparker/delve/cmd/dlv
+```
+go get github.com/derekparker/delve/cmd/dlv
+```
 * [GCC for Windows](http://tdm-gcc.tdragon.net/download)
