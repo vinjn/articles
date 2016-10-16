@@ -10,8 +10,8 @@
 ## Talk
 * https://talks.golang.org/
 
-## IDE
+## Toolchain
 * VS Code
-
-## Debugger
+* debugger
 > go get github.com/derekparker/delve/cmd/dlv
+* [GCC for Windows](http://tdm-gcc.tdragon.net/download)
