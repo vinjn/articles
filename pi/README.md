@@ -1,7 +1,9 @@
-# Remote
+# Tips for Raspberry Pi
+## Remote
 
 * RealVNC
  * [instal](https://www.realvnc.com/docs/raspberry-pi.html#raspberry-pi-legacy)
+ * F8 -> Save Connection
  * Set resolution
    * sudo leafpad /boot/config.txt
    ```
