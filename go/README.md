@@ -1,11 +1,14 @@
 # Tips for the GO programming language
 
-## Books
+## Book
 * [TGPL / The Go Programming Language](http://www.gopl.io/)
  * [Free sample](http://www.gopl.io/ch1.pdf)
 
 ## Doc
-* [Doc](https://golang.org/doc/)
+* https://golang.org/doc/
+
+## Talk
+* https://talks.golang.org/
 
 ## IDE
 * VS Code
