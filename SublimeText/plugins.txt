@@ -1,7 +1,7 @@
 Package Control
 All Autocomplete
 BracketHighlighter
-Sidebar Enhancement
+SideBarEnhancements
 SyncedSideBar
 Highlight Build Errors
 SublimeAStlyeFormatter
