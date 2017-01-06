@@ -1,7 +1,9 @@
 # Get chainer with GPU support
 
 ## get code
-> git clone https://github.com/pfnet/chainer
+```
+git clone https://github.com/pfnet/chainer
+```
 
 ## install nvidia libs:
 * CUDA sdk
@@ -15,16 +17,22 @@
 * conda install cython
 
 ## build chainer
-> cd chainer
-> python setup.py	install
+```
+cd chainer
+python setup.py	install
+```
 
 # Get chainer-fast-neuralstyle
 
 ## get code
-> git clone https://github.com/yusuketomoto/chainer-fast-neuralstyle
+```
+git clone https://github.com/yusuketomoto/chainer-fast-neuralstyle
+```
 
 ## run
-> python generate.py sample_images/tubingen.jpg -m models/seurat.model -o sample_images/output.jpg -g 0
+```
+python generate.py sample_images/tubingen.jpg -m models/seurat.model -o sample_images/output.jpg -g 0
+```
 
 ## Problem
 
