@@ -11,8 +11,8 @@ git clone https://github.com/pfnet/chainer
 ```
 
 ## install nvidia libs
-* CUDA sdk
-* cuDNN sdk
+* [CUDA sdk](https://developer.nvidia.com/cuda-downloads)
+* [cuDNN sdk](https://developer.nvidia.com/cudnn)
 * copy cuDNN files to `c:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\`
 
 ## install python libs
