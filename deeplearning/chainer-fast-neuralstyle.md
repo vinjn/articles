@@ -1,16 +1,21 @@
 # Install chainer with GPU support
 
+## remove existent chainer (optional)
+```
+pip uninstall chainer
+```
+
 ## get code
 ```
 git clone https://github.com/pfnet/chainer
 ```
 
-## install nvidia libs:
+## install nvidia libs
 * CUDA sdk
 * cuDNN sdk
 * copy cuDNN files to `c:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\`
 
-## install python libs:
+## install python libs
 * conda install numpy
 * conda install six
 * conda install pillow
