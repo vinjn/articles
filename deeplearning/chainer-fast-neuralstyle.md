@@ -1,4 +1,4 @@
-# Get chainer with GPU support
+# Install chainer with GPU support
 
 ## get code
 ```
@@ -22,7 +22,7 @@ cd chainer
 python setup.py	install
 ```
 
-# Get chainer-fast-neuralstyle
+# Install chainer-fast-neuralstyle
 
 ## get code
 ```
@@ -34,7 +34,7 @@ git clone https://github.com/yusuketomoto/chainer-fast-neuralstyle
 python generate.py sample_images/tubingen.jpg -m models/seurat.model -o sample_images/output.jpg -g 0
 ```
 
-## Problem
+## problem
 
 cudaErrorMemoryAllocation: out of memory
 
