@@ -5,7 +5,7 @@
 install nvidia libs:
 * CUDA sdk
 * cuDNN sdk
-  * copy cuDNN files to `c:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\`
+* copy cuDNN files to `c:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\`
 
 install python libs:
 * conda install numpy
@@ -19,4 +19,5 @@ install python libs:
 # Get chainer-fast-neuralstyle
 
 > git clone https://github.com/yusuketomoto/chainer-fast-neuralstyle
+
 > python generate.py sample_images/tubingen.jpg -m models/seurat.model -o sample_images/output.jpg -g 0
