@@ -21,6 +21,9 @@ git clone https://github.com/pfnet/chainer
 * conda install pillow
 * conda install cython
 
+## Visual Studio settings
+Add `c:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\` to `PATH` in environment variables.
+
 ## build chainer
 ```
 cd chainer
