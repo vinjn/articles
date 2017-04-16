@@ -9,5 +9,8 @@
 * Select `ofxDarknet` in `Addons` and hit`Generate`.
 * Open with Visual Studio 2015 and build.
 
+# Object detection
+* https://github.com/mrzl/ofxDarknet#yolo-real-time-object-detection-httppjreddiecomdarknetyolo
+
 # Deep Dream Effect
 * https://github.com/mrzl/ofxDarknet#deep-dream-httppjreddiecomdarknetnightmare
