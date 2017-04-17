@@ -42,6 +42,10 @@ git clone https://github.com/yusuketomoto/chainer-fast-neuralstyle
 python generate.py sample_images/tubingen.jpg -m models/seurat.model -o sample_images/output.jpg -g 0
 ```
 
+## train
+```
+python train.py -s <style_image_path> -d <training_dataset_path> -g 0
+```
 ## problem
 
 cudaErrorMemoryAllocation: out of memory
